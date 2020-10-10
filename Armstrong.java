@@ -2,7 +2,7 @@ class Armstrong
 {
 	public static void main(String[] args) 
 	{
-		int n=371;
+		int n=372;
 		int temp=n;
 	     int sum=0;
 		 while(n!=0)
